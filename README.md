@@ -1,0 +1,1 @@
+# qa-squad-style-data
